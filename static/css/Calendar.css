@@ -35,7 +35,7 @@ table.ui-calendar {
 	/* RIGHT arrow for next year */
 	content: ""; display: block; float: left; width: 0; height: 0; margin: 0 0 0 20px;border-width: 6px 0 6px 8px; border-color: transparent; border-left-color: #ccc; border-style: solid;
 }
-.ui-calendar .ui-calendar-prev-year:hover:before { border-right-color: #12a4ff; } 
+.ui-calendar .ui-calendar-prev-year:hover:before { border-right-color: #12a4ff; }
 .ui-calendar .ui-calendar-next-year:hover:before { border-left-color: #12a4ff; }
 
 
@@ -50,7 +50,7 @@ table.ui-calendar {
 	/* RIGHT arrow for next month */
 	content: ""; display: block; float: left; width: 0; height: 0; margin: 0 0 0 20px; border-width: 6px 0 6px 8px; border-color: transparent; border-left-color: #ccc; border-style: solid;
 }
-.ui-calendar .ui-calendar-prev-month:hover:before { border-right-color: #12a4ff; } 
+.ui-calendar .ui-calendar-prev-month:hover:before { border-right-color: #12a4ff; }
 .ui-calendar .ui-calendar-next-month:hover:before { border-left-color: #12a4ff; }
 
 /* DAYS */
